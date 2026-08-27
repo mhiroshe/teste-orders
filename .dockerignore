@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+**/DBLocal/
+.vs/
+.vscode/
+.idea/
+*.db
+*.db-shm
+*.db-wal
+.git/
+.gitignore
+.dockerignore
+Dockerfile
+docker-compose.yml
+README.md
